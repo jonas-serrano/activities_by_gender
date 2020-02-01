@@ -1,0 +1,8 @@
+mixed_martial_arts 100 20 60
+road_cycling 50 10 60
+soccer 60 70 40
+spinning 5 70 50
+yoga 1 70 40
+beis 50 70 10
+basket 60 70 40
+
